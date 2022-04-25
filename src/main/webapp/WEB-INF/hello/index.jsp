@@ -5,7 +5,7 @@
     <title>Title</title>
 </head>
 <body>
-    <p>Hello World!</p>
+    <p>Good Afternoon!</p>
     <c:set var="hello" value="${3 + 12 / 5}" />
     <c:out value="${hello}" />
 </body>
